@@ -1,0 +1,6 @@
+{
+  "name": "Ollama Local Chat",
+  "description": "A feature-rich chat interface for local Ollama models with Markdown rendering, model switching, parameter tuning, and prompt management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
